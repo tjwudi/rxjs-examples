@@ -13,5 +13,7 @@ $ git clone git@github.com:tjwudi/rxjs-examples.git
 Install dependencies using bower
 
 ```
-$ cd rxjs-examples && bower install
+$ cd rxjs-examples
+$ bower install
+$ npm install
 ```

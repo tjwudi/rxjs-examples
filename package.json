@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-example",
+  "version": "1.0.0",
+  "description": "A list of JavaScript Reactive Extensions examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjwudi/rxjs-examples.git"
+  },
+  "author": "John Wu <webmaster@leapoahead.com> (http://www.leapoahead.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjwudi/rxjs-examples/issues"
+  },
+  "homepage": "https://github.com/tjwudi/rxjs-examples",
+  "dependencies": {
+    "rx": "^2.5.2"
+  }
+}
